@@ -3,3 +3,5 @@ create a merge conflict
 
 creating a merge conflict
 
+Try to rebase
+
