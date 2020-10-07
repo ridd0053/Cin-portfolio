@@ -1,1 +1,9 @@
 language: bash
+
+sudo: required
+
+services:
+ - ubuntu-latest
+
+script:
+  - "hello world"
