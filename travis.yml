@@ -1,0 +1,12 @@
+language: bash
+
+on:
+  push:
+    branches:
+    - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    script:
+      "Hello world!"
